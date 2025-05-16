@@ -1,0 +1,5 @@
+class Config:
+         BOT_TOKEN = "7293287887:AAGOS1CS_pU4i9b_b59lGlHg5X2E_BnPpLE"
+         ADMIN_ID = 7768126457
+         CHANNEL_ID = -1002482137856
+         SUBSCRIPTION_PRICE = 20  # KSH per month
